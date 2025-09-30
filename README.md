@@ -75,7 +75,7 @@ ou outra forma simples de servir a pasta atual.
 | ----------------------- | -------------- |
 | Ambiente básico / setup | ✅ concluído    |
 | Integração JS + HTML    | ✅ concluído    |
-| Funções / escopo        | ⏳ em andamento |
+| Condições / Funções / escopo        | ⏳ em andamento |
 | DOM / eventos           | ⏳ futuro       |
 | Projetos completos      | ⏳ futuro       |
 
