@@ -1,8 +1,7 @@
-const nota1 = 8;
-const nota2 = 5; 
+const idade = 30;
 
-const somaDasNotas = nota1+nota2;
-let mediaDasNotas = somaDasNotas / 2;
+// idade >= 18 ? console.log('Voce eh maior de idade!') : console.log('Voce eh menor de idade!');
 
-console.log('Soma das notas = ', somaDasNotas);
-console.log('Media das notas = ', mediaDasNotas)
+const mensagem = idade >= 18 ? 'Maior de idade' : idade >= 16 ? 'Já pode votar' : 'Não pode votar';
+
+console.log(mensagem);
